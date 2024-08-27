@@ -5,8 +5,8 @@
 - alexanderbrooksnj@gmail.com
 - www.linkedin.com/in/alexandermbrooks
 
-In this folder you will find sample strategies that demonstrate the project results. 
-The reason for the strict rules in the backtesting is because the Topstep proprietary trading firm has a $50,000 account that allows for a maximum of $2000 drawdown at any point, and no compounding.
+In this folder you will find sample strategies that demonstrate my Quantitative Research project results. 
+I currently utilize Topstep, which is a proprietary trading firm that offers a $50,000 account with a $2000 drawdown limit at any point, and no compounding. These are the constraints being used for the strategies.
 
 Strategy 1: EMA Strategy
 - This strategy employs Exponential Moving Averages (EMAs) for entry signals on the 15-minute timeframe, trading between 9:30 AM and 4:00 PM EST. The focus is on taking directional bets on the value of MNQ (Micro Nasdaq futures) and MES (Micro S&P 500 futures).
