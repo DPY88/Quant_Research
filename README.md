@@ -14,7 +14,7 @@ Strategy 1: EMA Strategy
 - The accompanying folder contains cumulative returns for MNQ and MES from 2019-2024, along with detailed statistics and a trade list for MNQ since 2019.
   - The MNQ branch of trades is 59.33% profitable, with a Sortino ratio of approximately 1.35, indicating that the strategy effectively manages downside risk.
     Note that the statistics and trade list do not account for fees, as they are derived directly from NinjaTrader. However, the Equity curve does incorporate trading fees.
-- Additionally, the folder includes an Equity curve dating back to 2008, demonstrating that this strategy has delivered an average yearly return of 16% (non-compounding) across more than 1,000 trades.
+- Additionally, the folder includes an Equity curve dating back to 2008, demonstrating that this strategy has delivered an average yearly return of 16% (non-compounding) across more than 1,000 trades while accounting for trading fees.
 
 
 
