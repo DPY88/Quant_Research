@@ -2,7 +2,7 @@
 
 - Alexander Brooks
 - UCSD
-- alexanderbrooksnj@gmail.com
+- a4brooks@ucsd.edu
 - www.linkedin.com/in/alexandermbrooks
 
 In this folder you will find sample strategies that demonstrate my Quantitative Research project results. 
